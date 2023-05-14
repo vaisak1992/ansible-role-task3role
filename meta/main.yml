@@ -1,3 +1,4 @@
+---
 galaxy_info:
   author: vaisak1992
   description: Configure and launch a wordpress site using ansible roles in an ubuntu server.
